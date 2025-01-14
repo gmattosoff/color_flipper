@@ -80,6 +80,10 @@ main p {
         width: 88%;
     }
 
+    nav h1 {
+        margin-left: 10px;
+    }
+
     nav button {
         margin-right: 20px;
     }
