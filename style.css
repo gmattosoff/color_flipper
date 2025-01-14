@@ -35,6 +35,7 @@ main {
 }
 
 nav h1 {
+    margin-left: 60px;
     font-size: larger;
     color: darkblue;
 }
